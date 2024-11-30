@@ -1,0 +1,110 @@
+100 questions categorized under conditions, loops, and nested loops in C++
+
+1. Conditions
+Write a program to check if a number is even or odd.
+Write a program to determine if a number is positive, negative, or zero.
+Write a program to find the largest of three numbers.
+Check if a character entered is a vowel or consonant.
+Write a program to check if a year is a leap year.
+Develop a program to check if a number is divisible by both 5 and 3.
+Write a program to classify a character as an alphabet, digit, or special character.
+Check if a number is within a specified range (e.g., 1–100).
+Write a program to calculate the grade of a student based on marks.
+Determine if a triangle is valid based on its angles.
+Write a program to check if a character is uppercase or lowercase.
+Create a program to check if a number is a palindrome.
+Write a program to check if two numbers are equal.
+Develop a program to check if a number is divisible by 7 or not.
+Write a program to classify a person based on their age group (e.g., child, adult, senior).
+Check if a number is greater than a specific threshold.
+Write a program to determine if an input string is empty.
+Create a program to calculate the absolute value of a number.
+Determine if a character is a printable character or not.
+
+2. Loops
+Print the first 10 natural numbers using a loop.
+Write a program to calculate the sum of the first N natural numbers.
+Generate the multiplication table for a given number.
+Print all even numbers up to a given number.
+Print all odd numbers up to a given number.
+Find the factorial of a number using a loop.
+Write a program to reverse a number using a loop.
+Write a program to count the number of digits in a number.
+Check if a number is prime.
+Print all prime numbers in a given range.
+Find the greatest common divisor (GCD) of two numbers using a loop.
+Write a program to find the least common multiple (LCM) of two numbers.
+Calculate the sum of the digits of a number using a loop.
+Generate the Fibonacci series up to N terms.
+Write a program to calculate the power of a number using a loop.
+Count the occurrences of a specific digit in a number.
+Write a program to find the smallest divisor of a number.
+Create a program to find all the divisors of a number.
+Print all Armstrong numbers within a specific range.
+Write a program to check if a number is a perfect number.
+
+3. Nested Loops
+Print a pattern of stars in a right triangle.
+Print an inverted triangle of stars.
+Create a program to print a square pattern of numbers.
+Generate a multiplication table for all numbers from 1 to 10.
+Print a pyramid pattern of numbers.
+Create a program to print a diamond pattern using stars.
+Print the Pascal's Triangle.
+Print the Fibonacci series in a pyramid pattern.
+Write a program to print an inverted pyramid of numbers.
+Print a pattern where the row number is repeated in each row.
+Print a pattern where the column number is repeated in each column.
+Generate a hollow square of stars using nested loops.
+Print a checkerboard pattern of stars and spaces.
+Create a program to print a hollow triangle.
+Print the sum of each row in a pattern.
+Create a multiplication grid using nested loops.
+Write a program to print all Pythagorean triples less than a given number.
+Generate a Floyd’s Triangle.
+Print a pattern of letters from A to Z.
+Create a program to print a hollow diamond pattern.
+
+4. Mixed Conditions and Loops
+Write a program to calculate the sum of all even numbers in a given range.
+Write a program to calculate the sum of all odd numbers in a given range.
+Develop a program to find the sum of all prime numbers in a range.
+Find the average of N numbers entered by the user.
+Create a program to count the number of vowels in a given string.
+Check if a string is a palindrome using a loop.
+Count the number of uppercase and lowercase characters in a string.
+Find the frequency of a specific digit in a number.
+Write a program to check if a number is an Armstrong number using conditions and loops.
+Generate all Armstrong numbers between two given numbers.
+Create a program to print numbers in reverse order.
+Count the number of positive and negative numbers entered by the user until they input 0.
+Write a program to find the maximum and minimum of N numbers entered by the user.
+Calculate the sum of the squares of the first N natural numbers.
+Find the largest digit in a number.
+Write a program to find the smallest digit in a number.
+Create a program to simulate a simple ATM withdrawal system using loops and conditions.
+Generate a table of powers for a given base.
+Calculate the sum of the first N terms of an arithmetic progression.
+Calculate the sum of the first N terms of a geometric progression.
+
+5. Advanced Nested Loops
+Write a program to print a hollow rectangle pattern.
+Print a pattern of alternating 1s and 0s in a square.
+Generate a number pattern where each row contains consecutive numbers.
+Create a pattern where each row is a palindrome.
+Print the ASCII values of all characters in a table format.
+Generate a pattern of numbers in reverse order.
+Create a pattern of stars in a zigzag pattern.
+Write a program to generate a spiral matrix.
+Print a triangle of numbers in increasing order from the top to the bottom.
+Create a pattern where stars form an hourglass shape.
+Print all combinations of three numbers using nested loops.
+Write a program to check for magic squares using nested loops.
+Generate a hollow diamond with numbers inside.
+Create a program to print a sandglass star pattern.
+Write a program to print a zigzag number pattern.
+Generate a wave-like pattern of numbers using nested loops.
+Print a pattern of letters in a diamond shape.
+Create a program to display a pattern of concentric squares.
+Generate the Sierpinski triangle pattern using nested loops.
+Write a program to simulate a digital clock using nested loops.
