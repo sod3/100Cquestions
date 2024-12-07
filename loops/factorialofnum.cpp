@@ -10,7 +10,7 @@ int main(){
     int i = 1;
     int factorial = 1;
     while (i <= num){
-        factorial = factorial * i;
+        factorial *= i;
         cout << "The factorial of " << i << " is " << factorial << endl;
         i++;
     }
